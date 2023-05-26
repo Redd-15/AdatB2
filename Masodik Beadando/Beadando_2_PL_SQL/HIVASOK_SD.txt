@@ -1,0 +1,6 @@
+Valaki István;+36301234567;3515 Miskolc, Egyetemváros;5
+Fél Anna;+36301234567;3515 Miskolc, Egyetemváros;4
+Tele Fonszám;+36301234567;1111 Nagyváros, Kreativitás utca 99;3
+Sehol Tünde;+36301234567;4455 Országváros, Egy utca 18.;2
+Valaki István;+36301234567;3815 Város, Fő utca 10;1
+Vicces András;+36301212121;3500 Miskolc, Sehol utca 10.;0
